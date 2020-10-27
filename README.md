@@ -5,7 +5,7 @@
 
 ## Chatbot para recomendação de de exercícios físicos realizado durante *Lab* na Digital Innovation One
 
-Nesse *Lab* aprendi a desenvolver um projeto, ao qual apliquei conceitos de integração e buscas de vídeos de exercícios físicos no YouTube utilizando uma plataforma de entendimento de linguagem natural chamada DialogFlow. 
+Nesse *Lab*, aprendi a desenvolver um projeto ao qual apliquei conceitos de integração e buscas de vídeos de exercícios físicos no YouTube utilizando uma plataforma de entendimento de linguagem natural chamada DialogFlow. 
 
 Nesse projeto, oferecido como desafio de *Bootcamp* promovida pela [Digital Innovation One](https://web.digitalinnovation.one/), pude aprender:
 
@@ -15,6 +15,8 @@ Nesse projeto, oferecido como desafio de *Bootcamp* promovida pela [Digital Inno
 - Integração com Youtube API;
 - Utilização de Linguagem Natural DialogFlow;
 
+<br />
+<br />
 <p align="center">Este projeto será aprimorado em breve. Clique em "star" para acompanhar.</p>
 
 <br />
