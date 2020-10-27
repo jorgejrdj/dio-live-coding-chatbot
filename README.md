@@ -7,7 +7,7 @@
 
 Nesse *Lab* aprendi a desenvolver um projeto, ao qual apliquei conceitos de integração e buscas de vídeos de exercícios físicos no YouTube utilizando uma plataforma de entendimento de linguagem natural chamada DialogFlow. 
 
-Nesse projeto, oferecido como desafio de *Bootcamp* pela [Digital Innovation One](https://web.digitalinnovation.one/), pude aprender:
+Nesse projeto, oferecido como desafio de *Bootcamp* promovida pela [Digital Innovation One](https://web.digitalinnovation.one/), pude aprender:
 
 - Utilização da Linguagem NodeJs;
 - Integração com Telegram API;
