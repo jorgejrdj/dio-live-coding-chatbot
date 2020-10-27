@@ -1,11 +1,17 @@
 <p align="center">
-    <a href="https://github.com/jorgejrdj"><img src="https://i.ibb.co/XjZXHLj/logo-sm-white.png" alt="logo-sm-white" border="0" style="zoom:50%;" alt="Digital Innovation One"></a> </p>
+		<img src="https://i.ibb.co/XjZXHLj/logo-sm-white.png" alt="logo-sm-white" border="0" style="zoom:50%;" alt="Digital Innovation One"></a>
+</p>
 
 # Construindo um ChatbotFit no Telegram com JavaScript e NodeJS
 
 ## Chatbot para recomendação de de exercícios físicos realizado durante *Lab* na Digital Innovation One
 
 Nesse *Lab*, aprendi a desenvolver um projeto ao qual apliquei conceitos de integração e buscas de vídeos de exercícios físicos no YouTube utilizando uma plataforma de entendimento de linguagem natural chamada DialogFlow. 
+
+
+<br />
+
+<br />
 
 Nesse projeto, oferecido como desafio de *Bootcamp* promovida pela [Digital Innovation One](https://web.digitalinnovation.one/), pude aprender:
 
@@ -33,6 +39,9 @@ Faça o login com uma conta google;
 
 Opcional: Leia sobre os termos de serviço do Google;
 
+<br />
+
+<br />
 1. Crie um novo agente;
 2. Na criação do novo agente, selecione a lingua a ser tratada e crie um novo projeto;
 3. Com o agente criado, clique na engrenagem para acessar as configurações do agente;
@@ -45,6 +54,9 @@ Opcional: Leia sobre os termos de serviço do Google;
 Para aprender a gerar sua chave da API do YouTube, acesse:
 https://developers.google.com/youtube/v3/quickstart/nodejs
 
+<br />
+
+<br />
 Para maiores informações sobre a criação de credenciais, acesse:
 
 1. [Youtube](https://console.developers.google.com/start/api?id=youtube)
@@ -65,6 +77,9 @@ Para maiores informações sobre a criação de credenciais, acesse:
 	- Armazene o token enviado pelo @BotFather (Vamos usá-lo no código)
 
 
+<br />
+
+<br />
 
 ## :information_source: Como Usar?
 
