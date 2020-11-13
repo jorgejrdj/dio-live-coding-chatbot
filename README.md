@@ -1,6 +1,5 @@
 <p align="center">
-		<img src="https://i.ibb.co/XjZXHLj/logo-sm-white.png" alt="logo-sm-white" border="0" style="zoom:50%;" alt="Digital Innovation One"></a>
-</p>
+    <img alt="LOGO" height="90px" src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" /> </p>
 
 # Construindo um ChatbotFit no Telegram com JavaScript e NodeJS
 
